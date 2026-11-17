@@ -1,0 +1,23 @@
+A new sending domain can do everything right on day one and still land in spam.
+⠀
+Usually not because of the message.
+⠀
+Because the domain hasn't earned any trust yet.
+⠀
+Before a cold email campaign goes live, I want three things in place:
+⠀
+• Authentication set up: SPF, DKIM and DMARC.
+• A clear, easy way for people to opt out.
+• A warm-up period, with sending volume increased gradually instead of all at once.
+⠀
+None of that is exciting. All of it decides whether the message gets seen.
+⠀
+The mailbox providers have tightened their rules over the last couple of years. Skipping setup costs more than it used to.
+⠀
+We cover the rules that matter here:
+⠀
+Domain Warm-Up and Authentication: The 2024–2026 Rules That Matter
+⠀
+https://oppaday.com/domain-warmup-authentication-b2b-cold-email/
+⠀
+What's the first thing you check when a campaign's results suddenly drop?

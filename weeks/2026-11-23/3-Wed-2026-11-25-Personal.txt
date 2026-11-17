@@ -1,0 +1,21 @@
+Before a new sending domain carries a real campaign, I run through seven checks.
+⠀
+1. A separate domain for outreach.
+2. SPF, DKIM and DMARC set up and passing.
+3. A warm-up period before campaign volume.
+4. Daily sending increased in steps.
+5. An easy way to opt out in every email.
+6. A verified list, so bounces stay low.
+7. A close watch on the first week of results.
+⠀
+Most of these take minutes.
+⠀
+Skipping them can cost weeks of quiet results that look like a message problem, when the real problem is that nobody saw the message.
+⠀
+I put the full checklist here:
+⠀
+Is Your Domain Ready to Send? A Pre-Launch Checklist for Cold Email
+⠀
+https://oppaday.com/domain-ready-to-send-checklist/
+⠀
+Which of these gets skipped most often when teams are in a hurry to launch?

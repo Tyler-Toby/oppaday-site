@@ -1,0 +1,51 @@
+{
+ "week": "2026-12-14",
+ "note": "",
+ "posts": [
+  {
+   "day": "Tue",
+   "date": "2026-12-15",
+   "account": "Tyler Toby (personal)",
+   "file": "1-Tue-2026-12-15-Personal.txt",
+   "graphic": "Dec-15-Personal-Signals.jpg",
+   "link": "https://oppaday.com/signal-based-outbound-b2b-cold-email/"
+  },
+  {
+   "day": "Wed",
+   "date": "2026-12-16",
+   "account": "Oppaday Page",
+   "file": "2-Wed-2026-12-16-Oppaday-Page.txt",
+   "graphic": "Dec-16-Oppaday-Signals.jpg",
+   "link": "https://oppaday.com/signal-based-outbound-b2b-cold-email/"
+  },
+  {
+   "day": "Thu",
+   "date": "2026-12-17",
+   "account": "Tyler Toby (personal)",
+   "file": "3-Thu-2026-12-17-Personal.txt",
+   "graphic": "Dec-17-Personal-Signals.jpg",
+   "link": "https://oppaday.com/turn-signals-into-first-lines/"
+  }
+ ],
+ "source": {
+  "slug": "signal-based-outbound-b2b-cold-email",
+  "title": "Signal-Based Outbound: Why Timing Beats Generic Lists in B2B Cold Email",
+  "topic": "Prospecting & Targeting",
+  "preview": "https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/signal-based-outbound-b2b-cold-email-preview.jpg"
+ },
+ "new_article": {
+  "slug": "turn-signals-into-first-lines",
+  "title": "From Signal to First Line: Writing Cold Emails Around Timing",
+  "desc": "How to turn a hiring, funding or leadership signal into a cold email that feels timely instead of generic.",
+  "topic": "Prospecting & Targeting",
+  "topic_slug": "prospecting",
+  "read_min": 2,
+  "words": 280,
+  "publish_by": "2026-12-17 11:00 ET",
+  "preview": "https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/turn-signals-into-first-lines-preview.jpg",
+  "html": "weeks/2026-12-14/turn-signals-into-first-lines/index.html",
+  "sha256": "572563559e1ad3d02524e29786e8dbe8130a462e837aa273ddc54d56fdb25001"
+ },
+ "source_og_tags": "<meta content=\"https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/signal-based-outbound-b2b-cold-email-preview.jpg\" property=\"og:image\"/><meta content=\"image/jpeg\" property=\"og:image:type\"/><meta content=\"1200\" property=\"og:image:width\"/><meta content=\"627\" property=\"og:image:height\"/><meta content=\"Signal-Based Outbound: Why Timing Beats Generic Lists in B2B Cold Email\" property=\"og:image:alt\"/><meta content=\"https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/signal-based-outbound-b2b-cold-email-preview.jpg\" name=\"twitter:image\"/>",
+ "status": "ready"
+}

@@ -1,0 +1,51 @@
+{
+ "week": "2026-12-21",
+ "note": "Christmas week: posts Mon/Tue/Wed",
+ "posts": [
+  {
+   "day": "Mon",
+   "date": "2026-12-21",
+   "account": "Tyler Toby (personal)",
+   "file": "1-Mon-2026-12-21-Personal.txt",
+   "graphic": "Dec-21-Personal-AI.jpg",
+   "link": "https://oppaday.com/ai-assisted-cold-email-b2b-outbound/"
+  },
+  {
+   "day": "Tue",
+   "date": "2026-12-22",
+   "account": "Oppaday Page",
+   "file": "2-Tue-2026-12-22-Oppaday-Page.txt",
+   "graphic": "Dec-22-Oppaday-AI.jpg",
+   "link": "https://oppaday.com/ai-assisted-cold-email-b2b-outbound/"
+  },
+  {
+   "day": "Wed",
+   "date": "2026-12-23",
+   "account": "Tyler Toby (personal)",
+   "file": "3-Wed-2026-12-23-Personal.txt",
+   "graphic": "Dec-23-Personal-AI.jpg",
+   "link": "https://oppaday.com/ai-cold-email-human-review-checklist/"
+  }
+ ],
+ "source": {
+  "slug": "ai-assisted-cold-email-b2b-outbound",
+  "title": "AI-Assisted Cold Email: What Works in B2B Outbound",
+  "topic": "Messaging & Follow-Ups",
+  "preview": "https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/ai-assisted-cold-email-b2b-outbound-preview.jpg"
+ },
+ "new_article": {
+  "slug": "ai-cold-email-human-review-checklist",
+  "title": "Reviewing AI-Written Cold Emails: A Checklist for the Human Edit",
+  "desc": "What to check before an AI-drafted cold email goes out, so it stays accurate, relevant and in your voice.",
+  "topic": "Messaging & Follow-Ups",
+  "topic_slug": "messaging",
+  "read_min": 2,
+  "words": 244,
+  "publish_by": "2026-12-23 11:00 ET",
+  "preview": "https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/ai-cold-email-human-review-checklist-preview.jpg",
+  "html": "weeks/2026-12-21/ai-cold-email-human-review-checklist/index.html",
+  "sha256": "0d815c56575bdbf372f307f5d085cc202552bb709dac2d9d20e1e10a28621927"
+ },
+ "source_og_tags": "<meta content=\"https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/ai-assisted-cold-email-b2b-outbound-preview.jpg\" property=\"og:image\"/><meta content=\"image/jpeg\" property=\"og:image:type\"/><meta content=\"1200\" property=\"og:image:width\"/><meta content=\"627\" property=\"og:image:height\"/><meta content=\"AI-Assisted Cold Email: What Works in B2B Outbound\" property=\"og:image:alt\"/><meta content=\"https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/ai-assisted-cold-email-b2b-outbound-preview.jpg\" name=\"twitter:image\"/>",
+ "status": "ready"
+}

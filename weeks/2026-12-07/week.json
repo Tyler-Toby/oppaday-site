@@ -1,0 +1,51 @@
+{
+ "week": "2026-12-07",
+ "note": "",
+ "posts": [
+  {
+   "day": "Tue",
+   "date": "2026-12-08",
+   "account": "Tyler Toby (personal)",
+   "file": "1-Tue-2026-12-08-Personal.txt",
+   "graphic": "Dec-8-Personal-Follow-Ups.jpg",
+   "link": "https://oppaday.com/b2b-cold-email-follow-up-sequence/"
+  },
+  {
+   "day": "Wed",
+   "date": "2026-12-09",
+   "account": "Oppaday Page",
+   "file": "2-Wed-2026-12-09-Oppaday-Page.txt",
+   "graphic": "Dec-9-Oppaday-Follow-Ups.jpg",
+   "link": "https://oppaday.com/b2b-cold-email-follow-up-sequence/"
+  },
+  {
+   "day": "Thu",
+   "date": "2026-12-10",
+   "account": "Tyler Toby (personal)",
+   "file": "3-Thu-2026-12-10-Personal.txt",
+   "graphic": "Dec-10-Personal-Follow-Ups.jpg",
+   "link": "https://oppaday.com/cold-email-follow-ups-that-add-value/"
+  }
+ ],
+ "source": {
+  "slug": "b2b-cold-email-follow-up-sequence",
+  "title": "How Many Follow-Ups Does a B2B Cold Email Sequence Need?",
+  "topic": "Messaging & Follow-Ups",
+  "preview": "https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/b2b-cold-email-follow-up-sequence-preview.jpg"
+ },
+ "new_article": {
+  "slug": "cold-email-follow-ups-that-add-value",
+  "title": "Writing Cold Email Follow-Ups That Add Something",
+  "desc": "How to write follow-up emails that give the reader a new reason to reply instead of repeating the first message.",
+  "topic": "Messaging & Follow-Ups",
+  "topic_slug": "messaging",
+  "read_min": 2,
+  "words": 283,
+  "publish_by": "2026-12-10 11:00 ET",
+  "preview": "https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/cold-email-follow-ups-that-add-value-preview.jpg",
+  "html": "weeks/2026-12-07/cold-email-follow-ups-that-add-value/index.html",
+  "sha256": "a6213d753213a51a41a3069907c1735bd8201aa983002726400d5b0855b46866"
+ },
+ "source_og_tags": "<meta content=\"https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/b2b-cold-email-follow-up-sequence-preview.jpg\" property=\"og:image\"/><meta content=\"image/jpeg\" property=\"og:image:type\"/><meta content=\"1200\" property=\"og:image:width\"/><meta content=\"627\" property=\"og:image:height\"/><meta content=\"How Many Follow-Ups Does a B2B Cold Email Sequence Need?\" property=\"og:image:alt\"/><meta content=\"https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/b2b-cold-email-follow-up-sequence-preview.jpg\" name=\"twitter:image\"/>",
+ "status": "ready"
+}

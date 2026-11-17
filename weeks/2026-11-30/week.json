@@ -1,0 +1,51 @@
+{
+ "week": "2026-11-30",
+ "note": "",
+ "posts": [
+  {
+   "day": "Tue",
+   "date": "2026-12-01",
+   "account": "Tyler Toby (personal)",
+   "file": "1-Tue-2026-12-01-Personal.txt",
+   "graphic": "Dec-1-Personal-Prospecting.jpg",
+   "link": "https://oppaday.com/build-b2b-sales-contact-list/"
+  },
+  {
+   "day": "Wed",
+   "date": "2026-12-02",
+   "account": "Oppaday Page",
+   "file": "2-Wed-2026-12-02-Oppaday-Page.txt",
+   "graphic": "Dec-2-Oppaday-Prospecting.jpg",
+   "link": "https://oppaday.com/build-b2b-sales-contact-list/"
+  },
+  {
+   "day": "Thu",
+   "date": "2026-12-03",
+   "account": "Tyler Toby (personal)",
+   "file": "3-Thu-2026-12-03-Personal.txt",
+   "graphic": "Dec-3-Personal-Prospecting.jpg",
+   "link": "https://oppaday.com/contact-list-warning-signs/"
+  }
+ ],
+ "source": {
+  "slug": "build-b2b-sales-contact-list",
+  "title": "How to Build a B2B Sales Contact List That Converts",
+  "topic": "Prospecting & Targeting",
+  "preview": "https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/build-b2b-sales-contact-list-preview.jpg"
+ },
+ "new_article": {
+  "slug": "contact-list-warning-signs",
+  "title": "Five Signs Your Contact List Is Costing You Replies",
+  "desc": "How to spot a contact list problem before it shows up as a quiet campaign, and what to fix first.",
+  "topic": "Prospecting & Targeting",
+  "topic_slug": "prospecting",
+  "read_min": 2,
+  "words": 331,
+  "publish_by": "2026-12-03 11:00 ET",
+  "preview": "https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/contact-list-warning-signs-preview.jpg",
+  "html": "weeks/2026-11-30/contact-list-warning-signs/index.html",
+  "sha256": "36cae4d65d93ede97da111119434009fb893c87a7ee0d8582bf09848a075db83"
+ },
+ "source_og_tags": "<meta content=\"https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/build-b2b-sales-contact-list-preview.jpg\" property=\"og:image\"/><meta content=\"image/jpeg\" property=\"og:image:type\"/><meta content=\"1200\" property=\"og:image:width\"/><meta content=\"627\" property=\"og:image:height\"/><meta content=\"How to Build a B2B Sales Contact List That Converts\" property=\"og:image:alt\"/><meta content=\"https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/build-b2b-sales-contact-list-preview.jpg\" name=\"twitter:image\"/>",
+ "status": "ready"
+}

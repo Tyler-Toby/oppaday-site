@@ -1,0 +1,20 @@
+When a cold email campaign underperforms, the first question we ask isn't about the copy.
+⠀
+It's whether the email is reaching the inbox at all.
+⠀
+Before any campaign launches, we check the sending setup:
+⠀
+1. SPF, DKIM and DMARC are configured for the sending domain.
+2. Every email includes a simple way to opt out.
+3. New domains are warmed up before campaign volume starts.
+4. Daily sending increases gradually, not overnight.
+⠀
+A strong message on a domain that isn't ready can quietly end up in spam. Nobody replies, and it looks like the message failed.
+⠀
+Setup first. Then volume. Then judge the message.
+⠀
+Read the full article:
+⠀
+Domain Warm-Up and Authentication: The 2024–2026 Rules That Matter
+⠀
+https://oppaday.com/domain-warmup-authentication-b2b-cold-email/

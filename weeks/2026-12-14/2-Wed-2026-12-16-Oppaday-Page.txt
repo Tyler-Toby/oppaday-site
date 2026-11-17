@@ -1,0 +1,16 @@
+A generic list tells you who could buy. A signal suggests who might be ready to.
+⠀
+We use signals as a starting point for more relevant outreach:
+⠀
+1. Hiring: a company adding roles connected to the problem.
+2. Funding: new money usually means new priorities.
+3. Leadership changes: new leaders often review how things are done.
+4. Technology changes: new tools can create new needs.
+⠀
+The signal shapes the message too. "I saw you're hiring three SDRs" opens a very different conversation than a generic introduction.
+⠀
+Read the full article:
+⠀
+Signal-Based Outbound: Why Timing Beats Generic Lists in B2B Cold Email
+⠀
+https://oppaday.com/signal-based-outbound-b2b-cold-email/

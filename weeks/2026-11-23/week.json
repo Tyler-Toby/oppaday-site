@@ -1,0 +1,51 @@
+{
+ "week": "2026-11-23",
+ "note": "Thanksgiving week: posts Mon/Tue/Wed",
+ "posts": [
+  {
+   "day": "Mon",
+   "date": "2026-11-23",
+   "account": "Tyler Toby (personal)",
+   "file": "1-Mon-2026-11-23-Personal.txt",
+   "graphic": "Nov-23-Personal-Deliverability.jpg",
+   "link": "https://oppaday.com/domain-warmup-authentication-b2b-cold-email/"
+  },
+  {
+   "day": "Tue",
+   "date": "2026-11-24",
+   "account": "Oppaday Page",
+   "file": "2-Tue-2026-11-24-Oppaday-Page.txt",
+   "graphic": "Nov-24-Oppaday-Deliverability.jpg",
+   "link": "https://oppaday.com/domain-warmup-authentication-b2b-cold-email/"
+  },
+  {
+   "day": "Wed",
+   "date": "2026-11-25",
+   "account": "Tyler Toby (personal)",
+   "file": "3-Wed-2026-11-25-Personal.txt",
+   "graphic": "Nov-25-Personal-Deliverability.jpg",
+   "link": "https://oppaday.com/domain-ready-to-send-checklist/"
+  }
+ ],
+ "source": {
+  "slug": "domain-warmup-authentication-b2b-cold-email",
+  "title": "Domain Warm-Up and Authentication: The 2024–2026 Rules That Matter",
+  "topic": "Deliverability & Setup",
+  "preview": "https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/domain-warmup-authentication-b2b-cold-email-preview.jpg"
+ },
+ "new_article": {
+  "slug": "domain-ready-to-send-checklist",
+  "title": "Is Your Domain Ready to Send? A Pre-Launch Checklist for Cold Email",
+  "desc": "Seven checks to run before a new sending domain carries a real cold email campaign.",
+  "topic": "Deliverability & Setup",
+  "topic_slug": "deliverability",
+  "read_min": 2,
+  "words": 367,
+  "publish_by": "2026-11-25 11:00 ET",
+  "preview": "https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/domain-ready-to-send-checklist-preview.jpg",
+  "html": "weeks/2026-11-23/domain-ready-to-send-checklist/index.html",
+  "sha256": "6232c8cb5551d655478553c1a645d2d785a5459b6497deeb29b4634c20ddf9cf"
+ },
+ "source_og_tags": "<meta content=\"https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/domain-warmup-authentication-b2b-cold-email-preview.jpg\" property=\"og:image\"/><meta content=\"image/jpeg\" property=\"og:image:type\"/><meta content=\"1200\" property=\"og:image:width\"/><meta content=\"627\" property=\"og:image:height\"/><meta content=\"Domain Warm-Up and Authentication: The 2024–2026 Rules That Matter\" property=\"og:image:alt\"/><meta content=\"https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/domain-warmup-authentication-b2b-cold-email-preview.jpg\" name=\"twitter:image\"/>",
+ "status": "ready"
+}
