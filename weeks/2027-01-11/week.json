@@ -1,0 +1,51 @@
+{
+ "week": "2027-01-11",
+ "note": "",
+ "posts": [
+  {
+   "day": "Tue",
+   "date": "2027-01-12",
+   "account": "Tyler Toby (personal)",
+   "file": "1-Tue-2027-01-12-Personal.txt",
+   "graphic": "Jan-12-Personal-LinkedIn.jpg",
+   "link": "https://oppaday.com/cold-email-vs-linkedin-outreach-b2b/"
+  },
+  {
+   "day": "Wed",
+   "date": "2027-01-13",
+   "account": "Oppaday Page",
+   "file": "2-Wed-2027-01-13-Oppaday-Page.txt",
+   "graphic": "Jan-13-Oppaday-LinkedIn.jpg",
+   "link": "https://oppaday.com/cold-email-vs-linkedin-outreach-b2b/"
+  },
+  {
+   "day": "Thu",
+   "date": "2027-01-14",
+   "account": "Tyler Toby (personal)",
+   "file": "3-Thu-2027-01-14-Personal.txt",
+   "graphic": "Jan-14-Personal-LinkedIn.jpg",
+   "link": "https://oppaday.com/cold-email-and-linkedin-together/"
+  }
+ ],
+ "source": {
+  "slug": "cold-email-vs-linkedin-outreach-b2b",
+  "title": "Cold Email vs LinkedIn Outreach: Where Each Wins for B2B",
+  "topic": "Strategy & Channels",
+  "preview": "https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/cold-email-vs-linkedin-outreach-b2b-preview.jpg"
+ },
+ "new_article": {
+  "slug": "cold-email-and-linkedin-together",
+  "title": "Using Cold Email and LinkedIn Together: A Simple Weekly Routine",
+  "desc": "How to combine cold email and LinkedIn outreach so each channel does the job it does best.",
+  "topic": "Strategy & Channels",
+  "topic_slug": "strategy",
+  "read_min": 2,
+  "words": 262,
+  "publish_by": "2027-01-14 11:00 ET",
+  "preview": "https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/cold-email-and-linkedin-together-preview.jpg",
+  "html": "weeks/2027-01-11/cold-email-and-linkedin-together/index.html",
+  "sha256": "c1af51e8286008a41a3f5070fa7f4a69a92f1d55f597a33bd2a7908e587f3e7a"
+ },
+ "source_og_tags": "<meta content=\"https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/cold-email-vs-linkedin-outreach-b2b-preview.jpg\" property=\"og:image\"/><meta content=\"image/jpeg\" property=\"og:image:type\"/><meta content=\"1200\" property=\"og:image:width\"/><meta content=\"627\" property=\"og:image:height\"/><meta content=\"Cold Email vs LinkedIn Outreach: Where Each Wins for B2B\" property=\"og:image:alt\"/><meta content=\"https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/cold-email-vs-linkedin-outreach-b2b-preview.jpg\" name=\"twitter:image\"/>",
+ "status": "ready"
+}

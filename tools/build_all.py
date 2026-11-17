@@ -49,10 +49,10 @@ for w in WEEKS:
     for h, ps in a["sections"]:
         sid = slugify(h); body += f'<h2 id="{sid}">{esc(h)}</h2>' + "".join(ps); toc += f'<a href="#{sid}">{esc(h)}</a>'
     words = len(re.sub(r"<[^>]+>", " ", body).split()); mins = max(1, -(-words // 200))
-    date = datetime.date.fromisoformat(d3)
+    date = datetime.date(2026, 11, 17)
     url = f"{RAW}previews/{a['slug']}-preview.jpg"
     rep = {"{{TITLE}}": esc(a["title"]), "{{DESC}}": esc(a["desc"]), "{{SLUG}}": a["slug"], "{{CATEGORY}}": esc(a["topic"]),
-           "{{CATEGORY_LOWER}}": esc(a["topic"].lower()), "{{TOPIC_SLUG}}": TOPIC_SLUG[a["topic"]], "{{DATE_ISO}}": d3,
+           "{{CATEGORY_LOWER}}": esc(a["topic"].lower()), "{{TOPIC_SLUG}}": TOPIC_SLUG[a["topic"]], "{{DATE_ISO}}": "2026-11-17",
            "{{DATE_LONG}}": date.strftime("%B %-d, %Y"), "{{READ_MIN}}": str(mins), "{{BODY}}": body, "{{TOC}}": toc,
            "{{RELATED}}": "".join(card(s) for s in a["cards"])}
     t = TEMPLATE

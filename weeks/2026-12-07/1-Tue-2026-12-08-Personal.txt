@@ -1,16 +1,16 @@
-A lot of replies to cold email don't come from the first message.
+Most replies to a cold email sequence come from the first or second message.
 ⠀
-People are busy. The first email arrives on the wrong day, gets skimmed, and slides down the inbox.
+That surprises people who send seven or eight follow-ups.
 ⠀
-That's why follow-ups matter.
-⠀
-But more isn't automatically better. Every extra email is another chance to annoy someone who isn't interested.
+Emails three and four can still reach people who missed the first ones, if they stay short and relevant. Past five or six, the extra volume rarely pays for itself, and it adds deliverability risk.
 ⠀
 The questions I ask when planning a sequence:
 ⠀
 • How many touches does this audience need to notice us?
 • How much space between them?
 • Does each follow-up add something, or just repeat the first email?
+⠀
+For most B2B programs, three or four touches spaced a few days apart is the practical sweet spot.
 ⠀
 We wrote about finding that balance:
 ⠀

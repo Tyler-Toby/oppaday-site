@@ -1,0 +1,51 @@
+{
+ "week": "2027-01-04",
+ "note": "",
+ "posts": [
+  {
+   "day": "Tue",
+   "date": "2027-01-05",
+   "account": "Tyler Toby (personal)",
+   "file": "1-Tue-2027-01-05-Personal.txt",
+   "graphic": "Jan-5-Personal-KPIs.jpg",
+   "link": "https://oppaday.com/right-kpis-outbound-sales-process/"
+  },
+  {
+   "day": "Wed",
+   "date": "2027-01-06",
+   "account": "Oppaday Page",
+   "file": "2-Wed-2027-01-06-Oppaday-Page.txt",
+   "graphic": "Jan-6-Oppaday-KPIs.jpg",
+   "link": "https://oppaday.com/right-kpis-outbound-sales-process/"
+  },
+  {
+   "day": "Thu",
+   "date": "2027-01-07",
+   "account": "Tyler Toby (personal)",
+   "file": "3-Thu-2027-01-07-Personal.txt",
+   "graphic": "Jan-7-Personal-KPIs.jpg",
+   "link": "https://oppaday.com/monthly-outbound-review/"
+  }
+ ],
+ "source": {
+  "slug": "right-kpis-outbound-sales-process",
+  "title": "The Right KPIs for an Outbound Sales Process",
+  "topic": "Automation & Measurement",
+  "preview": "https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/right-kpis-outbound-sales-process-preview.jpg"
+ },
+ "new_article": {
+  "slug": "monthly-outbound-review",
+  "title": "A Monthly Outbound Review: Six Questions to Ask Your Numbers",
+  "desc": "A simple monthly routine for reviewing outbound results and deciding what to fix next.",
+  "topic": "Automation & Measurement",
+  "topic_slug": "automation",
+  "read_min": 2,
+  "words": 265,
+  "publish_by": "2027-01-07 11:00 ET",
+  "preview": "https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/monthly-outbound-review-preview.jpg",
+  "html": "weeks/2027-01-04/monthly-outbound-review/index.html",
+  "sha256": "b02660ceab745e2b42eb575a32e7f42f321bca800f9ce88d90c5ddc7829a498f"
+ },
+ "source_og_tags": "<meta content=\"https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/right-kpis-outbound-sales-process-preview.jpg\" property=\"og:image\"/><meta content=\"image/jpeg\" property=\"og:image:type\"/><meta content=\"1200\" property=\"og:image:width\"/><meta content=\"627\" property=\"og:image:height\"/><meta content=\"The Right KPIs for an Outbound Sales Process\" property=\"og:image:alt\"/><meta content=\"https://raw.githubusercontent.com/Tyler-Toby/oppaday-site/linkedin-images/previews/right-kpis-outbound-sales-process-preview.jpg\" name=\"twitter:image\"/>",
+ "status": "ready"
+}

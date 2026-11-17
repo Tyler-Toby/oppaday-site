@@ -2,9 +2,9 @@ We use AI in our cold email workflow every day. We don't let it hit send on its 
 ⠀
 Where AI helps us:
 ⠀
-1. Drafting first versions and variations to test.
-2. Summarizing research on accounts and industries.
-3. Adapting a message for different segments.
+1. Drafting first lines from company or role context.
+2. Suggesting subject lines and short openers.
+3. Cleaning contact data and segmenting lists by industry or title.
 ⠀
 Where a person stays involved:
 ⠀

@@ -2,11 +2,11 @@ We plan follow-ups before the first cold email goes out, not after it gets no re
 ⠀
 When we build a sequence, we decide three things up front:
 ⠀
-1. Length: how many emails in total.
-2. Spacing: how many days between each one.
+1. Length: usually three or four touches.
+2. Spacing: two to four days apart, so it feels human.
 3. Purpose: what each follow-up adds that the first email didn't.
 ⠀
-A sequence that's too short can end before the right person sees it. One that's too long starts to feel like pressure.
+Most of the value comes from the first two emails. Each extra touch adds volume, so we only add follow-ups when the data shows they still produce replies.
 ⠀
 The goal is to be noticed by the people who care and to stop before you become noise to the ones who don't.
 ⠀

@@ -1,0 +1,17 @@
+When we review an outbound campaign, we don't stop at activity metrics.
+⠀
+We look at the whole path from send to sale:
+⠀
+1. Bounce rate: are emails being delivered?
+2. Unique reply rate: are people responding?
+3. Positive reply rate: is there real interest?
+4. Meetings held: does interest turn into conversations?
+5. Qualified opportunities: is it creating pipeline that fits?
+⠀
+Each number points to a different fix. Delivery problems need list and setup work. Few relevant replies usually mean the audience and offer don't fit yet. Meetings without qualified opportunities point back to targeting.
+⠀
+Read the full article:
+⠀
+The Right KPIs for an Outbound Sales Process
+⠀
+https://oppaday.com/right-kpis-outbound-sales-process/

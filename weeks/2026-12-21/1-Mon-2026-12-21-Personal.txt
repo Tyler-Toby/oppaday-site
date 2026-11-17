@@ -6,11 +6,11 @@ The hard part is still deciding who should get it, what problem it should addres
 ⠀
 How I think about AI in cold email:
 ⠀
-• Use it to draft, test variations, and speed up research.
-• Use segmentation so the message fits the audience.
+• Use it to draft first lines, suggest subject lines, and clean up contact data.
+• Use it to segment lists so the message fits the audience.
 • Have a person review before anything goes out.
 ⠀
-Fully AI-generated emails tend to read like fully AI-generated emails. The human edit is what makes them land.
+Fully AI-generated emails tend to sound generic, and buyers notice. Human-edited AI drafts are what land.
 ⠀
 We wrote about what works:
 ⠀
