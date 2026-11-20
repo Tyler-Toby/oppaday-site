@@ -10,7 +10,8 @@ SP = chr(0x2800)
 TEMPLATE = open("/home/claude/linkedin/article_template.html").read()
 OG_ANCHOR = '<meta content="Oppaday" property="og:site_name"/>'
 
-def post(paras): return f"\n{SP}\n".join(paras) + "\n"
+HASHTAGS = "#ColdEmail #OutboundSales #B2BSales"
+def post(paras): return f"\n{SP}\n".join(list(paras) + [HASHTAGS]) + "\n"
 def slugify(s): return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", s.lower())).strip("-")
 def esc(s): return html.escape(s, quote=True)
 def card(slug, cat=None, title=None, desc=None, mins=None):
